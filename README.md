@@ -37,3 +37,7 @@ miac-website
 	* jQuery
 	* Grunt
 	* Flat UI
+
+## License
+[MIT](http://mutedsolutions.mit-license.org/)
+
