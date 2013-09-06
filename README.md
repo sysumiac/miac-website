@@ -22,10 +22,16 @@ miac-website
 	* 上传作品
 
 ## 团队构建
-* 分享和讨论：wiki
-* 协同工作：github
-* 任务管理：issues
-* 文档管理：wiki、README
+* 分享和讨论：
+	* github wiki
+	* QQ
+* 协同工作：
+	* github
+* 任务管理：
+	* github issues
+* 文档管理：
+	* github wiki
+	* Markdown README
 
 ## 技术架构
 （考虑到参与项目人员学习成本问题，暂采用比较传统的架构，以后可以往SPA上迁移）
