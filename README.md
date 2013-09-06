@@ -25,14 +25,15 @@ miac-website
 * 分享和讨论：wiki
 * 协同工作：github
 * 任务管理：issues
-* 文档管理：wiki
+* 文档管理：wiki、README
 
 ## 技术架构
+（考虑到参与项目人员学习成本问题，暂采用比较传统的架构，以后可以往SPA上迁移）
 * 版本管理（git & github）
 * 后端
-	* MVC: ThinkPHP
-	* MySQL
-	* PHP
+	* 语言：PHP
+	* MVC框架：ThinkPHP
+	* 数据库：MySQL
 * 前端
 	* jQuery
 	* Grunt
