@@ -1,7 +1,8 @@
-中山大学现代互联网应用俱乐部（MIAC）网站
+miac-website
 =======================
 
-[官网地址](http://sysumiac.com)
+[中山大学现代互联网应用俱乐部（MIAC）网站](http://sysumiac.com)
+
 
 ## 功能设想
 * 发布文章: 
