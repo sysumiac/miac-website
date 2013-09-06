@@ -1,4 +1,5 @@
 function Person() {
-	this.name =  'khhhshhh' 
+	this.name =  'khh' 
+	this.age = 'shit
 }
 
